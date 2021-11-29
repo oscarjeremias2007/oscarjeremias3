@@ -2,7 +2,7 @@
 <br />
 <h2>&#x1F60E;I am the <strong>Oscar jeremias</strong></h2>
 
-<h3>&#x1F6B6;Has experience in:</h3>
+<h3>&#x1F6B6;I have experience in:</h3>
 
 <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="50px"/>
 <br />
